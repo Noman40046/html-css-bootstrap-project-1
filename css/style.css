@@ -1,0 +1,47 @@
+body
+{
+   
+    font-family: 'Roboto', sans-serif;
+}
+.contact
+{
+    text-decoration: none;
+    color: rgb(3, 29, 113);
+}
+
+.joe
+{
+margin-bottom: -2px;
+}
+.clint
+{
+    padding-left: 200px;
+}
+.story-img
+{
+    width: 500px;
+}
+.my-img
+{
+    width: 450px;
+    height: 610px;
+    background: linear-gradient(
+      rgb(0, 0, 0, 1),
+      rgba(1, 255, 175, 0.2)
+    );
+    border-radius: 100%;
+
+}
+
+.create
+{
+    font-size: 70px
+}
+.card-title
+{
+  font-size:20px;
+  font-weight: 700;
+}
+
+
+
